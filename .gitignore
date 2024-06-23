@@ -1,0 +1,14 @@
+# Ignorar archivos compilados
+*.class
+*.exe
+
+# Ignorar directorios específicos
+/bin
+/obj
+
+# Ignorar archivos de configuración del entorno
+*.env
+*.log
+
+# Ignorar archivos de dependencia
+node_modules/
