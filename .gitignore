@@ -12,3 +12,6 @@
 
 # Ignorar archivos de dependencia
 node_modules/
+
+# Ignorar archivos de Visual Studio
+.vs/
